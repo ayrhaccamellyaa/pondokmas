@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jasa Pembangunan Proyek</title>
+</head>
+
+<body>
+    <h1>PT Maju Jaya Konstruksi</h1>
+    <p>Perusahaan jasa pembangunan proyek profesional.</p>
+
+    <h2>Layanan Kami</h2>
+    <ul>
+        <li>Pembangunan Rumah</li>
+        <li>Renovasi Bangunan</li>
+        <li>Pembangunan Gedung</li>
+    </ul>
+
+    <h2>Kontak</h2>
+    <p>Email: majukonstruksi@gmail.com</p>
+    <p>Telepon: 08123456789</p>
+</body>
+</html>
